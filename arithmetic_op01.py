@@ -6,3 +6,10 @@
 
 #Print the value of result.
 #'The result is:'
+
+
+
+x=10
+y=5
+result=x+y
+print(result)
