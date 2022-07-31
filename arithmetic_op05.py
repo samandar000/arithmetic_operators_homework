@@ -5,3 +5,6 @@
 #Find the remainder of the division of number by 3.
  
 #Print the answer
+number=int(55)
+answer=number%3
+print (answer)
