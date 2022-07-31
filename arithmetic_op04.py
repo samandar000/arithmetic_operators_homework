@@ -9,3 +9,12 @@
 #Create a variable called 'answer' and assign it the sum of the three digits.
 
 #print the sum of the three digits.
+number=456
+x1=number%10
+number=number//10
+x2=number%10
+number=number//10
+x3=number%10
+number=number//10
+answer=x1+x2+x3
+print (answer)
