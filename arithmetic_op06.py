@@ -6,4 +6,9 @@
  
 #Print the answer.
  
-#Print the number.
+#Print the number
+
+number=(2.3)
+number=(number*10)
+answer=number%10
+print (answer)
